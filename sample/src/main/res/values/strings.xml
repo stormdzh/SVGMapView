@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SVGMapView_Sample</string>
+    <string name="action_settings">Settings</string>
+    <array name="activity_select_array">
+        <item>BasicMap</item>
+        <item>MapOperation</item>
+        <item>LocationOverlay</item>
+        <item>Spark</item>
+        <item>CustomOverlay</item>
+    </array>
+</resources>
